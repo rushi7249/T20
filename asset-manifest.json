@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/T20/static/css/main.f855e6bc.css",
-    "main.js": "/T20/static/js/main.37078ed6.js",
+    "main.css": "/T20/static/css/main.bbea5d96.css",
+    "main.js": "/T20/static/js/main.c87aa740.js",
     "static/js/488.004105e6.chunk.js": "/T20/static/js/488.004105e6.chunk.js",
+    "static/media/shoes.jpg": "/T20/static/media/shoes.b9c36f18607042ca5854.jpg",
+    "static/media/pair-trainers.jpg": "/T20/static/media/pair-trainers.74e7078cc131147a38ec.jpg",
+    "static/media/brown-leather-shoes.jpg": "/T20/static/media/brown-leather-shoes.355f31892df1e3dafa47.jpg",
+    "static/media/pexels-melvin-buezo-1253763-2529148.jpg": "/T20/static/media/pexels-melvin-buezo-1253763-2529148.4f89d361a86a19ca58fc.jpg",
+    "static/media/pexels-webdonut-19090.jpg": "/T20/static/media/pexels-webdonut-19090.3ff1eaa9614e20674753.jpg",
+    "static/media/icon.png": "/T20/static/media/icon.ab48f6c02af0d7a1220f.png",
     "index.html": "/T20/index.html",
-    "main.f855e6bc.css.map": "/T20/static/css/main.f855e6bc.css.map",
-    "main.37078ed6.js.map": "/T20/static/js/main.37078ed6.js.map",
+    "main.bbea5d96.css.map": "/T20/static/css/main.bbea5d96.css.map",
+    "main.c87aa740.js.map": "/T20/static/js/main.c87aa740.js.map",
     "488.004105e6.chunk.js.map": "/T20/static/js/488.004105e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.37078ed6.js"
+    "static/css/main.bbea5d96.css",
+    "static/js/main.c87aa740.js"
   ]
 }
